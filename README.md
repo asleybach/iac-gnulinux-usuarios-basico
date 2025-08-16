@@ -44,7 +44,8 @@ El script [`iac_linux.sh`](iac_linux.sh) automatiza las siguientes tareas:
 
 ## Autor
 
-Asley
+Asley  
+[https://asleybach.github.io/](https://asleybach.github.io/)
 
 ---
 
